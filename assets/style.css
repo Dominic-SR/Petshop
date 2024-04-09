@@ -73,6 +73,10 @@
     transform: scaleX(-1);
 }
 
+.cat{
+    position: absolute;
+}
+
 .main-container .store-container{
     width: 100%;
     height: 500px;
