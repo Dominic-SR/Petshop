@@ -1,7 +1,7 @@
 
-<h1 style="text-align:center">Food Court</h1>
+<h1 style="text-align:center">Pet shop</h1>
 
-<p>Restaurant website</p>
+<p>Petshop website</p>
 
 <h2> 💻 Technologies used</h2>
 
